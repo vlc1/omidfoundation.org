@@ -2,4 +2,5 @@ baseURL: https://vlc1.github.io/omidfoundation.org/
 languageCode: en-us
 defaultContentLanguage: en
 title: Omid Foundation
+enableEmoji: true
 enableGitInfo: true
