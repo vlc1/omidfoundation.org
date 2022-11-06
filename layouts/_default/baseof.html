@@ -8,7 +8,17 @@
     {{ end }}</title>
   </head>
   <body>
+    {{ block "header" . }}
+      <header>
+        {{ partial "main.html" . }}
+      </header>
+    {{ end }}
     {{ block "main" . }}
+    {{ end }}
+    {{ block "footer" . }}
+      <footer>
+        {{ partial "footer.html" . }}
+      </footer>
     {{ end }}
   </body>
 </html>

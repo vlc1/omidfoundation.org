@@ -1,0 +1,12 @@
+{{ with site.Menus.main }}
+  <nav>
+    <button class="hamburger">&#9776;</button>
+    <ul>
+      {{ range . }}
+        <li>
+          <a href="{{ .URL | absLangURL }}">{{ i18n .Identifier | default .Name | humanize}}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}
