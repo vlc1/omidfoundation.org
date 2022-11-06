@@ -1,8 +1,7 @@
 ---
-title: Iran Dementia & Alzheimer’s Association in Ekbatan Town, Tehran (Iran)
-summary: Alzheimer Association in Ekbatan, Tehran project.
+title: IDAA in Ekbatan Town, Tehran (Iran)
+summary: IDAA in Ekbatan Town, Tehran project.
 ---
-
 
 The [Iran Dementia & Alzheimer’s Association](https://www.iranalz.ir/) provides medical care for Alzheimer patients.
 
