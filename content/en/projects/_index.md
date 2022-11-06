@@ -7,5 +7,3 @@ menu:
     identifier: projects
     weight: 200
 ---
-
-Here is a list of the projects.
