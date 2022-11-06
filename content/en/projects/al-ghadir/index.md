@@ -21,4 +21,4 @@ Our mission is to help and provide food, education and work skills for children 
 
 ---
 
-Total financial support: EUR 190236.
+Total financial support: {{< euro 190236 >}}.

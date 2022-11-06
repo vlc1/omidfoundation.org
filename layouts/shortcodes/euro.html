@@ -1,0 +1,3 @@
+{{- with .Get 0 -}}
+  {{- . | lang.FormatCurrency 2 "EUR" -}}
+{{- end -}}

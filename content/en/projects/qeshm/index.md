@@ -21,4 +21,4 @@ Our mission is to provide centers for education and healthcare for those in need
 
 ---
 
-Total financial support: EUR 231980.
+Total financial support: {{< euro 231980 >}}.

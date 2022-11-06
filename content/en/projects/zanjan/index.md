@@ -11,4 +11,4 @@ summary: Roozbeh Charity in Zanjan project.
 
 ---
 
-Amount spent: EUR 45000.
+Total financial support: {{< euro 45000 >}}.

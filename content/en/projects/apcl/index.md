@@ -18,4 +18,4 @@ Our mission is to support this well-established charity in their efforts to prov
 
 ---
 
-Amount spent: EUR 406896.
+Total financial support: {{< euro 406896 >}}.

@@ -20,4 +20,4 @@ Since 2014, our mission is to provide toddlers and their families nutrition, edu
 
 ---
 
-Amount spent: EUR 156378.
+Total financial support: {{< euro 156378 >}}.

@@ -13,4 +13,4 @@ Our main mission was to provide for elderly women and orphaned boys and girls fa
 
 ---
 
-Amount spent: EUR 101503.
+Total financial support: {{< euro 101503 >}}.

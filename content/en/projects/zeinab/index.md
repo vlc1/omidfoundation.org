@@ -19,4 +19,4 @@ Our mission is to help this charity to provide work skills for single mothers wi
 
 ---
 
-Amount spent: EUR 69661.
+Total financial support: {{< euro 69661 >}}.

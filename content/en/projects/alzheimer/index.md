@@ -11,4 +11,4 @@ The [Iran Dementia & Alzheimer’s Association](https://www.iranalz.ir/) provide
 
 ---
 
-Amount spent: EUR 67931,91.
+Total financial support: {{< euro 67931.91 >}}.

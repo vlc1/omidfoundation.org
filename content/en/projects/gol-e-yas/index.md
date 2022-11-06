@@ -14,4 +14,4 @@ Our mission, which spanned 11 years between 2008 and 2019, was to help single mo
 
 ---
 
-Amount spent: EUR 48056.
+Total financial support: {{< euro 48056 >}}.
